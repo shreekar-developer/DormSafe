@@ -14,8 +14,9 @@ DormSafe uses intelligent machine learning to scan roommates faces on easy to us
 ##### Machine Learning and Python Backend:
 ###### Facial Recognition Machine Learning: https://github.com/serengil/deepface
 ###### Pyrebase for Firebase: https://github.com/thisbejim/Pyrebase
-##### Dependencies (Pubspecs) for Web App:
+
+##### Dependencies (Pubspecs) for Web App and Mobile App:
 ###### Camera, Firebase Core, Flutter Login, Firebase Auth, Google Sign In, Cloud Firestore, Image Picker, Esys Flutter Share
-##### Dependencies (Pubspecs) for Mobile App:
+
 ##### Arduino Libraries:
 ###### WifiNina, Servos, LEDs
