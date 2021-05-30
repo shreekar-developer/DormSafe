@@ -17,5 +17,5 @@ DormSafe uses intelligent machine learning to scan roommates faces on easy to us
 ##### Dependencies (Pubspecs) for Web App:
 ###### Camera, Multiple Firebase Dependencies, Image Picker, Esys Flutter Share
 ##### Dependencies (Pubspecs) for Mobile App:
-##### Arduinos:
-###### WifiNina, 
+##### Arduino Libraries:
+###### WifiNina, Servos, LEDs
