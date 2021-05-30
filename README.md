@@ -5,5 +5,5 @@
 
 
 ## Credit
-Facial Recognition Machine Learning: https://github.com/serengil/deepface
-Pyrebase for Firebase: https://github.com/thisbejim/Pyrebase
+#### Facial Recognition Machine Learning: https://github.com/serengil/deepface
+#### Pyrebase for Firebase: https://github.com/thisbejim/Pyrebase
