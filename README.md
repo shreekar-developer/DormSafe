@@ -15,3 +15,4 @@ DormSafe uses intelligent machine learning to scan roommates faces on easy to us
 ###### Pyrebase for Firebase: https://github.com/thisbejim/Pyrebase
 ##### Dependencies (Pubspecs) for Web App:
 ###### Camera, Multiple Firebase Dependencies, Image Picker, Esys Flutter Share
+##### Dependencies (Pubspecs) for Mobile App:
