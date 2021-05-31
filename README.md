@@ -1,7 +1,7 @@
 
 # DormSafe
 
-## First Place Winner of 10πHacks 🏆🏆🏆
+## First Place Winner of 10πHacks 🏆�
 
 ## Summary
 
